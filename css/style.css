@@ -1400,7 +1400,6 @@ span.description {
   color: black;
 }
 
-
 .title-un,
 .title-small-un {
   text-align: center;
@@ -2518,7 +2517,6 @@ button.close {
   margin-top: 50px;
 }
 
-
 .container-about-portfolio2 {
   padding: 70px 0 0 0;
   margin-top: 570px;
@@ -2534,11 +2532,7 @@ button.close {
   margin-bottom: 50px;
 }
 
-@media
-
-/****** Portfolio filter ******/
-
-.portfolio-container {
+@media /****** Portfolio filter ******/ .portfolio-container {
   padding: 46px 0;
 }
 
@@ -7171,7 +7165,6 @@ img.mfp-img {
   text-justify: inter-word;
 }
 
-
 .list-aviso {
   font-size: 18px;
   margin-left: 50px;
@@ -7251,7 +7244,16 @@ img.mfp-img {
   margin-right: 20px;
   margin-top: 12%;
 }
-
+#columna5 {
+  margin-left: 58%;
+  margin-right: 20px;
+  margin-top: 12%;
+}
+#columna6 {
+  margin-left: 58%;
+  margin-right: 20px;
+  margin-top: 12%;
+}
 
 .blond {
   font-size: 20px;
@@ -7261,6 +7263,45 @@ img.mfp-img {
 }
 
 .blond2 {
+  font-size: 20px;
+  color: black;
+  margin-top: 3%;
+  word-spacing: 170px;
+  font-weight: bold;
+}
+
+.blond2dani {
+  font-size: 20px;
+  color: black;
+  margin-top: 3%;
+  word-spacing: 170px;
+  font-weight: bold;
+}
+
+.blond2clinica {
+  font-size: 20px;
+  color: black;
+  margin-top: 3%;
+  word-spacing: 170px;
+  font-weight: bold;
+}
+.blond2luis {
+  font-size: 20px;
+  color: black;
+  margin-top: 3%;
+  word-spacing: 170px;
+  font-weight: bold;
+}
+
+.blond2piso {
+  font-size: 20px;
+  color: black;
+  margin-top: 3%;
+  word-spacing: 170px;
+  font-weight: bold;
+}
+
+.blond2sanjose {
   font-size: 20px;
   color: black;
   margin-top: 3%;
@@ -7285,6 +7326,28 @@ img.mfp-img {
 }
 
 .noblond {
+  font-size: 20px;
+  margin-top: 3%;
+}
+
+.noblondani {
+  font-size: 20px;
+  margin-top: 3%;
+}
+
+.noblondclinica {
+  font-size: 20px;
+  margin-top: 3%;
+}
+.noblondluis {
+  font-size: 20px;
+  margin-top: 3%;
+}
+.noblondpiso {
+  font-size: 20px;
+  margin-top: 3%;
+}
+.noblondsanjose {
   font-size: 20px;
   margin-top: 3%;
 }
@@ -7345,20 +7408,103 @@ img.mfp-img {
   .blond2 {
     font-size: 16px;
     word-spacing: 40px;
-    margin-top: 1650px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .blond2dani {
+    font-size: 16px;
+    word-spacing: 57px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .blond2clinica {
+    font-size: 16px;
+    word-spacing: 57px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .blond2luis {
+    font-size: 16px;
+    word-spacing: 57px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
+  .blond2piso {
+    font-size: 16px;
+    word-spacing: 57px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
+  .blond2sanjose {
+    font-size: 16px;
+    word-spacing: 57px;
+    margin-left: -200px;
   }
 }
 
 @media (max-width: 414px) {
   .blond3 {
     font-size: 16px;
-    word-spacing: 25px;
+    word-spacing: 40px;
     margin-top: 1550px;
   }
 }
 
 @media (max-width: 414px) {
   .noblond {
+    font-size: 14px;
+    word-spacing: -2.7px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .noblondani {
+    font-size: 14px;
+    word-spacing: -3.67px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
+  .noblondani2 {
+    font-size: 14px;
+    word-spacing: -2.7px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .noblondclinica {
+    font-size: 14px;
+    word-spacing: -2.7px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
+  .noblondluis {
+    font-size: 14px;
+    word-spacing: -2.7px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
+  .noblondpiso {
+    font-size: 14px;
+    word-spacing: -2.7px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .noblondsanjose {
     font-size: 14px;
     word-spacing: -2.7px;
     margin-left: -200px;
@@ -7412,7 +7558,6 @@ img.mfp-img {
 @media (max-width: 414px) {
   .title-un-un {
     font-size: 40px;
-    
   }
 }
 
@@ -7424,7 +7569,19 @@ img.mfp-img {
 
 @media (max-width: 414px) {
   #columna4 {
-    margin-top: 1150px;
+    margin-top: 800px;
+  }
+}
+
+@media (max-width: 414px) {
+  #columna5 {
+    margin-top: 900px;
+  }
+}
+
+@media (max-width: 414px) {
+  #columna6 {
+    margin-top: 1000px;
   }
 }
 
@@ -7440,28 +7597,20 @@ img.mfp-img {
   .servicios {
     font-size: 12px;
     margin-left: 65px;
-    
   }
 }
 
 @media (max-width: 414px) {
   .container-our-services {
     margin-left: 40px;
-    
   }
 }
-
-
-
-
 
 @media (max-width: 414px) {
   #form {
     margin-left: 1%;
-    
   }
 }
-
 
 /*=================================================
 20 - 390 PX
@@ -7479,21 +7628,18 @@ img.mfp-img {
   .servicios {
     font-size: 12px;
     margin-left: 65px;
-    
   }
 }
 
 @media (max-width: 390px) {
   .container-our-services {
     margin-left: 35px;
-    
   }
 }
 
 @media (max-width: 390px) {
   .title-un {
     margin-left: -3%;
-    
   }
 }
 
@@ -7505,12 +7651,9 @@ img.mfp-img {
   }
 }
 
-
 /*=================================================
 20 - 375 PX
 =================================================*/
-
-
 
 @media (max-width: 375px) {
   .iconos {
@@ -7524,7 +7667,6 @@ img.mfp-img {
   .servicios {
     font-size: 12px;
     margin-left: 65px;
-    
   }
 }
 
@@ -7532,15 +7674,12 @@ img.mfp-img {
   .container-our-services {
     margin-left: 35px;
     max-width: 80%;
-    
   }
 }
-
 
 /*=================================================
 20 - 360PX
 =================================================*/
-
 
 @media (max-width: 369px) {
   .iconos {
@@ -7554,18 +7693,14 @@ img.mfp-img {
   .servicios {
     font-size: 12px;
     margin-left: 35px;
-    
   }
 }
 
 @media (max-width: 369px) {
   .container-our-services {
     margin-left: 35px;
-    
-    
   }
 }
-
 
 /*=================================================
 20 - FORMULARIO
@@ -7646,10 +7781,6 @@ input::-webkit-input-placeholder {
 /*=================================================
  - SliderProyectos
 =================================================*/
-
-.slide-render {
-  margin-top: 10%;
-}
 
 .container_slider {
   width: 100%;
@@ -7735,7 +7866,6 @@ input::-webkit-input-placeholder {
   height: 100%;
 }
 
-
 .slide-open:checked + .slide-item {
   position: static;
   opacity: 100;
@@ -7747,7 +7877,6 @@ input::-webkit-input-placeholder {
   -webkit-transition: opacity 0.6s ease-out;
   transition: opacity 0.6s ease-out;
 }
-
 
 .slide-item img {
   display: block;
@@ -7762,7 +7891,6 @@ input::-webkit-input-placeholder {
   max-width: 100%;
   object-fit: cover;
 }
-
 
 .slide-control {
   background: rgba(0, 0, 0, 0.28);
@@ -7855,4 +7983,4 @@ input::-webkit-input-placeholder {
   z-index: 9999;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33),
     -1px 0px 2px rgba(255, 255, 255, 0);
-
+}
