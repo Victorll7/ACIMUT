@@ -7274,7 +7274,7 @@ img.mfp-img {
   font-size: 20px;
   color: black;
   margin-top: 3%;
-  word-spacing: 170px;
+  word-spacing: 240px;
   font-weight: bold;
 }
 
@@ -7282,7 +7282,7 @@ img.mfp-img {
   font-size: 20px;
   color: black;
   margin-top: 3%;
-  word-spacing: 170px;
+  word-spacing: 240px;
   font-weight: bold;
 }
 .blond2luis {
@@ -7297,7 +7297,7 @@ img.mfp-img {
   font-size: 20px;
   color: black;
   margin-top: 3%;
-  word-spacing: 170px;
+  word-spacing: 240px;
   font-weight: bold;
 }
 
@@ -7305,7 +7305,7 @@ img.mfp-img {
   font-size: 20px;
   color: black;
   margin-top: 3%;
-  word-spacing: 170px;
+  word-spacing: 240px;
   font-weight: bold;
 }
 
@@ -7335,7 +7335,18 @@ img.mfp-img {
   margin-top: 3%;
 }
 
+.noblondani2 {
+  font-size: 20px;
+  margin-top: 3%;
+  word-spacing: 3px;
+}
+
 .noblondclinica {
+  font-size: 20px;
+  margin-top: 3%;
+}
+
+.noblondclinica2 {
   font-size: 20px;
   margin-top: 3%;
 }
@@ -7343,11 +7354,25 @@ img.mfp-img {
   font-size: 20px;
   margin-top: 3%;
 }
+.noblondluis2 {
+  font-size: 20px;
+  margin-top: 3%;
+}
 .noblondpiso {
   font-size: 20px;
   margin-top: 3%;
 }
+
+.noblondpiso2 {
+  font-size: 20px;
+  margin-top: 3%;
+}
 .noblondsanjose {
+  font-size: 20px;
+  margin-top: 3%;
+}
+
+.noblondsanjose2 {
   font-size: 20px;
   margin-top: 3%;
 }
@@ -7415,7 +7440,7 @@ img.mfp-img {
 @media (max-width: 414px) {
   .blond2dani {
     font-size: 16px;
-    word-spacing: 57px;
+    word-spacing: 90px;
     margin-left: -200px;
   }
 }
@@ -7423,7 +7448,7 @@ img.mfp-img {
 @media (max-width: 414px) {
   .blond2clinica {
     font-size: 16px;
-    word-spacing: 57px;
+    word-spacing: 90px;
     margin-left: -200px;
   }
 }
@@ -7438,14 +7463,14 @@ img.mfp-img {
 @media (max-width: 414px) {
   .blond2piso {
     font-size: 16px;
-    word-spacing: 57px;
+    word-spacing: 90px;
     margin-left: -200px;
   }
 }
 @media (max-width: 414px) {
   .blond2sanjose {
     font-size: 16px;
-    word-spacing: 57px;
+    word-spacing: 90px;
     margin-left: -200px;
   }
 }
@@ -7469,14 +7494,14 @@ img.mfp-img {
 @media (max-width: 414px) {
   .noblondani {
     font-size: 14px;
-    word-spacing: -3.67px;
+    word-spacing: -3.3px;
     margin-left: -200px;
   }
 }
 @media (max-width: 414px) {
   .noblondani2 {
     font-size: 14px;
-    word-spacing: -2.7px;
+    word-spacing: -1.289px;
     margin-left: -200px;
   }
 }
@@ -7488,6 +7513,14 @@ img.mfp-img {
     margin-left: -200px;
   }
 }
+
+@media (max-width: 414px) {
+  .noblondclinica2 {
+    font-size: 14px;
+    word-spacing: -2.2px;
+    margin-left: -200px;
+  }
+}
 @media (max-width: 414px) {
   .noblondluis {
     font-size: 14px;
@@ -7496,9 +7529,24 @@ img.mfp-img {
   }
 }
 @media (max-width: 414px) {
+  .noblondluis2 {
+    font-size: 14px;
+    word-spacing: -2.459px;
+    margin-left: -200px;
+  }
+}
+@media (max-width: 414px) {
   .noblondpiso {
     font-size: 14px;
-    word-spacing: -2.7px;
+    word-spacing: -3px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .noblondpiso2 {
+    font-size: 14px;
+    word-spacing: -2.3px;
     margin-left: -200px;
   }
 }
@@ -7506,7 +7554,15 @@ img.mfp-img {
 @media (max-width: 414px) {
   .noblondsanjose {
     font-size: 14px;
-    word-spacing: -2.7px;
+    word-spacing: -3px;
+    margin-left: -200px;
+  }
+}
+
+@media (max-width: 414px) {
+  .noblondsanjose2 {
+    font-size: 14px;
+    word-spacing: -2.5px;
     margin-left: -200px;
   }
 }
